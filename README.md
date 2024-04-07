@@ -38,10 +38,6 @@ Questionera can be seamlessly integrated into various recruitment platforms or u
 
 Contributions to Questionera are highly encouraged! If you have any suggestions, feature requests, or bug fixes, please submit a pull request following the contribution guidelines outlined in the repository.
 
-## Contact
-
-For inquiries, feedback, or support, please contact the project maintainer at [heetvadiya@gmail.com].
-
 ## License
 
 Questionera is released under the MIT License, granting users the freedom to utilize, modify, and distribute the application for personal or commercial purposes.
